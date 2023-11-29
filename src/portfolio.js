@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://daunsid.github.io/daunsi',
+  title: 'daunsi.',
 }
 
 const about = {
@@ -21,27 +21,27 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Music & Faces',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Pytorch', 'FastAPI', 'Azure'],
+    sourceCode: 'https://github.com/daunsid/',
+    livePreview: 'https://github.com',
+  },
+  {
+    name: 'Bank API',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['Golang', 'Kubernetes', 'Docker'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Tumor Detection in GI Tract from MRIs',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+    stack: ['Pytorch', 'CUDA', 'MRIs'],
+    sourceCode: 'https://github.com/daunsid',
     livePreview: 'https://github.com',
   },
 ]

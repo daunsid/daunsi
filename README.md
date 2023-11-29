@@ -6,15 +6,15 @@ Cleanfolio is a portfolio template built with React. However, if you prefer a te
 
 [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio)
 
-[Live Demo](https://rajshekhar26.github.io/cleanfolio)
+[Live Demo](https://daunsid.github.io/daunsi)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
+git clone https://github.com/daunsid/daunsi
+cd daunsi
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
